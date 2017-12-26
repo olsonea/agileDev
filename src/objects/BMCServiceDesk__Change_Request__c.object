@@ -3148,19 +3148,19 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>Epic</fullName>
+                    <fullName>Emergency</fullName>
                     <default>false</default>
-                    <label>Epic</label>
+                    <label>Emergency</label>
                 </value>
                 <value>
-                    <fullName>Story</fullName>
-                    <default>false</default>
-                    <label>Story</label>
+                    <fullName>Normal</fullName>
+                    <default>true</default>
+                    <label>Normal</label>
                 </value>
                 <value>
-                    <fullName>Task</fullName>
+                    <fullName>Standard</fullName>
                     <default>false</default>
-                    <label>Task</label>
+                    <label>Standard</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
