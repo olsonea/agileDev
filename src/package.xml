@@ -4,9 +4,5 @@
         <members>BMCServiceDesk__Change_Type__c</members>
         <name>CustomField</name>
     </types>
-    <types>
-        <members>BMCServiceDesk__Change_Request__c</members>
-        <name>CustomObject</name>
-    </types>
     <version>41.0</version>
 </Package>
