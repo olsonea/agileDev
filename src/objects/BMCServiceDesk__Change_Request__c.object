@@ -3087,19 +3087,24 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>Major</fullName>
+                    <fullName>Epic</fullName>
                     <default>false</default>
-                    <label>Major</label>
+                    <label>Epic</label>
                 </value>
                 <value>
-                    <fullName>Minor</fullName>
+                    <fullName>Story</fullName>
                     <default>true</default>
-                    <label>Minor</label>
+                    <label>Story</label>
                 </value>
                 <value>
-                    <fullName>Significant</fullName>
+                    <fullName>Task</fullName>
                     <default>false</default>
-                    <label>Significant</label>
+                    <label>Task</label>
+                </value>
+                <value>
+                    <fullName>Bug</fullName>
+                    <default>false</default>
+                    <label>Bug</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
